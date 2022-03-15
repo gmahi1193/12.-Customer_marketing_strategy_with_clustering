@@ -1,0 +1,1 @@
+This project is for understanding clustering using Credit card data to segment the customers.
